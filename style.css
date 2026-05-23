@@ -1,0 +1,17 @@
+        body {
+            font-family: Arial;
+            text-align: center;
+            background-color: 	#5a9277;
+        }
+
+        section {
+            margin: 20px;
+            padding: 15px;
+            border: 1px solid black;
+        }
+
+        button {
+            margin: 5px;
+            padding: 10px;
+            cursor: pointer;
+        }
